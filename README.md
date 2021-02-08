@@ -1,3 +1,1 @@
-Hello, Hek!
-Hi, man!
-3-я строка, эксперименты продолжаются!
+Hello, Hexlet! How are you?
